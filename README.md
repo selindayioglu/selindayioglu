@@ -1,15 +1,6 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/selin-dayioglu/">LinkedIn</a> •
-</p>
-***
 
- <br>
-
-📈 My Github stats <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=selindayioglu&theme=dark&show_icons=true" alt="shwetangStats" />  
-  <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selindayioglu&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
@@ -33,8 +24,16 @@
 ***
 
 <br />
+<h3 align="center">İletişim</h3>
+<p align="center">
+<a href="mailto:slndayioglu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="saurav-chamoli" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/selin-dayioglu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saurav-chamoli" height="30" width="40" /></a>
+<a href="https://codepen.io/selindayioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sauravchamoli17" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/14768905" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sauravchamoli17" height="30" width="40" /></a>
 
+</p>
+<br />
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/selindayioglu/count.svg" />
 </p>

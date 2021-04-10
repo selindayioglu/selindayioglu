@@ -1,9 +1,3 @@
-
-
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<br>
-
 **Diller ve Araçlar**
 
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
@@ -20,8 +14,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selindayioglu&layout=compact&theme=dark" alt="top-langs" />
 </p>
-
-<br />
 <h3 align="center">İletişim</h3>
 <p align="center">
 <a href="mailto:slndayioglu@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="saurav-chamoli" height="30" width="40" /></a>
@@ -32,6 +24,6 @@
 </p>
 <br />
 <p align="center"> 
-  Visitor count<br>
+Ziyaretçi Sayısı<br />
   <img src="https://profile-counter.glitch.me/selindayioglu/count.svg" />
 </p>

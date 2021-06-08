@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selindayioglu&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://i.hizliresim.com/gn58lw6.png" alt="top-langs" />
 </p>
 <h3 align="center">Contact</h3>
 <p align="center">

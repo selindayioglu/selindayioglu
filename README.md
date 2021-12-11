@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.hizliresim.com/gn58lw6.png" alt="top-langs" />
-</p>
-
 <div align="center">
 https://profile-summary-for-github.com/user/selindayioglu
 </div>
